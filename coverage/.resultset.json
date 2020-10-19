@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/cameronlogie/codingprojects/makers/week_4/bookmark_manager/spec/features/index_spec.rb": {
+      "/Users/dan/Google Drive/Documents/Work/Makers/Projects/week4/Bookmark_manager/spec/features/index_spec.rb": {
         "lines": [
           1,
           1,
@@ -11,10 +11,8 @@
           null
         ]
       },
-      "/Users/cameronlogie/codingprojects/makers/week_4/bookmark_manager/spec/features/view_bookmarks_spec.rb": {
+      "/Users/dan/Google Drive/Documents/Work/Makers/Projects/week4/Bookmark_manager/spec/features/view_bookmarks_spec.rb": {
         "lines": [
-          1,
-          1,
           1,
           1,
           1,
@@ -23,25 +21,18 @@
           null
         ]
       },
-      "/Users/cameronlogie/codingprojects/makers/week_4/bookmark_manager/spec/unit/bookmark_spec.rb": {
+      "/Users/dan/Google Drive/Documents/Work/Makers/Projects/week4/Bookmark_manager/spec/unit/bookmark_spec.rb": {
         "lines": [
           1,
           null,
           1,
-          null,
-          2,
-          2,
-          null,
           1,
           1,
-          1,
-          1,
-          null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1603118938
+    "timestamp": 1603121139
   }
 }

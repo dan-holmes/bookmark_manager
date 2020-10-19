@@ -1,1 +1,1 @@
-<h1><%=@bookmark%></h1>
+<h1><%= Bookmark.bookmarks.each { |name, url| puts "[#{name}, #{url}]" } %></h1>
