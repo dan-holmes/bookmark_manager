@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/dan/Google Drive/Documents/Work/Makers/Projects/week4/Bookmark_manager/spec/features/index_spec.rb": {
+      "/Users/TimGill/Github/Makers_main/04_Week/bookmark_manager_Dan/spec/features/index_spec.rb": {
         "lines": [
           1,
           1,
@@ -11,31 +11,31 @@
           null
         ]
       },
-      "/Users/dan/Google Drive/Documents/Work/Makers/Projects/week4/Bookmark_manager/spec/features/view_bookmarks_spec.rb": {
+      "/Users/TimGill/Github/Makers_main/04_Week/bookmark_manager_Dan/spec/features/view_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
           1,
-          1,
-          1,
+          0,
+          0,
           null,
           null
         ]
       },
-      "/Users/dan/Google Drive/Documents/Work/Makers/Projects/week4/Bookmark_manager/spec/unit/bookmark_spec.rb": {
+      "/Users/TimGill/Github/Makers_main/04_Week/bookmark_manager_Dan/spec/unit/bookmark_spec.rb": {
         "lines": [
           1,
           null,
           1,
           1,
           1,
-          1,
-          1,
+          0,
+          0,
           null,
           null
         ]
       }
     },
-    "timestamp": 1603188261
+    "timestamp": 1603203495
   }
 }
