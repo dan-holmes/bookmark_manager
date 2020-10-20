@@ -3,7 +3,8 @@ require "./lib/bookmark.rb"
 describe Bookmark do
   it "responds to the class method .all by return a list of bookmarks" do
     bookmarks = Bookmark.all
-    expect(bookmarks).to include("google.com")
-    expect(bookmarks).to include("facebook.com")
+    expect(bookmarks[0]["url"]).to eq "http://www.makersacademy.com"
+    expect(bookmarks[1]["url"]).to eq "http://google.com"
+    expect(bookmarks[2]["url"]).to eq "http://destoryallsoftware.com"
   end
 end
